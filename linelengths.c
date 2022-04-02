@@ -1,4 +1,4 @@
-#include <ctype.h> // hi prof, im finding that majority of the work is thinking about the problem & coding is rather less..
+#include <ctype.h> 
 #include <stdio.h>
 
 int main()
